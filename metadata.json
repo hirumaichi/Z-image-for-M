@@ -1,0 +1,5 @@
+{
+  "name": "MockupGen AI",
+  "description": "Aplikasi web profesional untuk membuat mockup berkualitas tinggi menggunakan AI Google Gemini (NanoBanana & Pro). Mendukung text-to-image dan image-to-image dengan pilihan resolusi tinggi.",
+  "requestFramePermissions": []
+}
